@@ -4,7 +4,7 @@ inflect==2.1.0
 numpy==1.16.2
 numpydoc==0.8.0
 pandas==0.24.2
-requests==2.21.0
+requests==2.31.0
 scikit-image==0.14.2
 scikit-learn==0.20.3
 scipy==1.2.1
